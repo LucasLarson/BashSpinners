@@ -1,9 +1,6 @@
 #!/bin/bash
 
-spin[0]="-"
-spin[1]="\\"
-spin[2]="|"
-spin[3]="/"
+spin=("-" "\\" "|" "/")
 
 echo -n "${spin[0]}"
 while true
