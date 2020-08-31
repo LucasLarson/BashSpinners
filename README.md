@@ -1,21 +1,22 @@
-# Simple sample script for beautiful bash spinners
+# Bash Spinners
 
 ## Requirements
 
-```bash
-sudo apt install jq wget
-```
+1. `git`
+1. `bash`
+1. `env`
 
 ## Usage
 
 ```bash
-git clone https://github.com/SteveClement/bash-spinners
-cd bash-spinners
-./spin.sh
+git clone https://github.com/LucasLarson/BashSpinners
+cd BashSpinners
+bash spin.bash
 ```
 
-## Demo
+## Credit
 
-[![asciicast](https://asciinema.org/a/240432.png)](https://asciinema.org/a/240432)
-
-This work by [@SteveClement](https://twitter.com/SteveClement) is licensed under the Non-White-Heterosexual-Male License.
+[@SteveClement](https://twitter.com/SteveClement) released this software in
+2019 under the
+[NWHM&nbsp;license](LICENSE). Like everything else on GitHub, it is based on
+[work by&nbsp;@SindreSorhus](https://github.com/sindresorhus/cli-spinners).
