@@ -16,8 +16,6 @@ name: Super-Linter
 #############################
 on:
   push:
-    # branches-ignore: [main]
-    # uncomment to run only on non-`main` branches
   pull_request:
     branches: [main]
 
